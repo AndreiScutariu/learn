@@ -9,4 +9,4 @@ local dep
 - travis client
 
 
-added some notes
+added some notes 2
