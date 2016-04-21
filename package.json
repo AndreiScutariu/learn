@@ -3,9 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "echo \"Todo: no test specified\" && exit 0",
+    "test": "echo \"Todo: no test specified\" && exit 1",
     "start": "node server/server.js"
   },
   "author": "Andrei Scutariu",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
