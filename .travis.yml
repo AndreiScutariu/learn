@@ -1,3 +1,5 @@
 language: node_js
 node_js:
   - "5"
+notifications:
+  slack: boyswillbeboys-team:MMtbrZBioaKX33PM15X0Q4dL
