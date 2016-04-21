@@ -7,3 +7,6 @@ travis
 local dep
 - heroku
 - travis client
+
+
+added some notes
