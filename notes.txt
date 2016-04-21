@@ -2,3 +2,8 @@ travis
 - node, npm
 - can run any js tests (with any library)
 - 
+
+
+local dep
+- heroku
+- travis client

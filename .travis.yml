@@ -3,3 +3,8 @@ node_js:
   - "5"
 notifications:
   slack: boyswillbeboys-team:MMtbrZBioaKX33PM15X0Q4dL
+deploy:
+  app: learn-example
+  provider: heroku
+  api_key:
+    secure: d0281e7c-56f9-4cac-8f47-bf2aeaca0040
