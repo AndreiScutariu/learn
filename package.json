@@ -9,6 +9,7 @@
   "author": "Andrei Scutariu",
   "license": "ISC",
   "dependencies": {
+    "eslint": "^2.8.0",
     "express": "^4.13.4"
   }
 }
